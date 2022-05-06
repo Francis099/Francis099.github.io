@@ -6,7 +6,7 @@ date:   2022-05-06 11:14:42 +0900
 categories: github git
 
 
-  ![post-thumbnail](C:\apps\ml\Francis099.github.io\test.png)
+![110940](https://user-images.githubusercontent.com/100403437/167056967-a5b5554d-6fb1-4db8-8b36-ac0e43c991d2.png)
 
 ### **Git 설치 (for ubuntu)
 
